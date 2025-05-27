@@ -40,7 +40,7 @@ mkdir -p ${OUTPUT}
 while read sample; do
  echo "Processing sample: ${sample}"
 
- seqtk seq -A ${INPUT}/${sample}_R1_clean.fastq.gz > ${OUTPUT}/${sample}_R1_clean.fasta 
+ seqtk seq -A ${INPUT}/${sample}_clean.fastq.gz > ${OUTPUT}/${sample}_clean.fasta 
 
  echo "Completed: ${sample}"
 
