@@ -1,0 +1,360 @@
+No	Pathogen	Pathogen_fullname	Taxonomy ID	Isolate_genome	Fragment								
+1	CLBV	Citrus leaf blotch virus	129141	GCA_000852305.1	NC_003877.1								
+1	CLBV	Citrus leaf blotch virus	557419	GCA_031123385.1	FJ009367.1								
+2	CSDaV	Citrus sudden death-associated virus	312008	GCA_000858145.1	NC_006950.1								
+3	CVd-Ia	Citrus viroid-Ia	72705	GCA_031112995.1	AY226157.1								
+4	CVd-II	Citrus viroid-II	12893	GCA_000847785.1	NC_001351.1								
+4	CVd-II	Citrus viroid-II	12893	GCA_027574605.1	OP885209.1								
+5	CVd-III	Citrus viroid-III	551523	GCA_000856305.1	NC_003264.1								
+5	CVd-III	Citrus viroid-III	41862	GCA_031109325.1	AF184148.1								
+5	CVd-III	Citrus viroid-III	110139	GCA_031113195.1	AF184149.1								
+6	CVd-IV	Citrus viroid-IV	12898	GCA_000852785.1	NC_003539.1								
+7	CVd-V	Citrus viroid-V	459949	GCA_000878955.1	NC_010165.1								
+8	CVD-VI	Citrus viroid-VI	697192	GCA_000884515.1	NC_004359.1								
+9	CVV	Citrus variegation virus	37127	GCA_000870745.1	NC_009537.1								
+9	CVV	Citrus variegation virus	37127	GCA_000870745.1	NC_009538.1								
+9	CVV	Citrus variegation virus	37127	GCA_000870745.1	NC_009536.1								
+10	CYVaV	Citrus yellow vein-associated virus	1297894	GCA_003726535.1	NC_040311.1								
+11	Canker	Xanthomonas axonopodis pv. maculifoliigardeniae	487832	GCA_041519315.1	NZ_CP167998.1								
+11	Canker	Xanthomonas axonopodis pv. maculifoliigardeniae	487832	GCA_041519315.1	NZ_CP167999.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000001.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000002.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000003.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000004.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000005.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000006.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000007.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000008.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000009.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000010.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000011.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000012.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000013.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000014.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000015.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000016.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000017.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000018.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000019.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000020.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000021.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000022.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000023.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000024.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000025.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000026.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000027.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000028.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000029.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000030.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000031.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000032.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000033.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000034.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000035.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000036.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000037.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000038.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000039.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000040.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000041.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000042.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000043.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000044.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000045.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000046.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000047.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000048.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000049.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000050.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000051.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000052.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000053.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000054.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000055.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000056.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000057.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000058.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000059.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000060.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000061.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000062.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000063.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000064.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000065.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000066.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000067.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000068.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000069.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000070.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000071.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000072.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000073.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000074.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000075.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000076.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000077.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000078.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000079.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000080.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000081.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000082.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000083.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000084.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000085.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000086.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000087.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000088.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000089.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000090.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000091.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000092.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000093.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000094.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000095.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000096.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000097.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000098.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000099.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000100.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000101.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000102.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000103.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000104.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000105.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000106.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000107.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000108.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000109.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000110.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000111.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000112.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000113.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000114.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000115.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000116.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000117.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000118.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000119.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000120.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000121.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000122.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000123.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000124.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000125.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000126.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000127.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000128.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000129.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000130.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000131.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000132.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000133.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000134.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000135.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000136.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000137.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000138.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000139.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000140.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000141.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000142.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000143.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000144.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000145.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000146.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000147.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000148.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000149.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000150.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000151.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000152.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000153.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000154.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000155.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000156.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000157.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000158.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000159.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000160.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000161.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000162.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000163.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000164.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000165.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000166.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000167.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000168.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000169.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000170.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000171.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000172.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000173.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000174.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000175.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000176.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000177.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000178.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000179.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000180.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000181.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000182.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000183.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000184.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000185.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000186.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000187.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000188.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000189.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000190.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000191.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000192.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000193.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000194.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000195.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000196.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000197.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000198.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000199.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000200.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000201.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000202.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000203.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000204.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000205.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000206.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000207.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000208.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000209.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000210.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000211.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000212.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000213.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000214.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000215.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000216.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000217.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000218.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000219.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000220.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000221.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000222.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000223.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000224.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000225.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000226.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000227.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000228.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000229.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000230.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000231.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000232.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000233.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000234.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000235.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000236.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000237.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000238.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000239.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000240.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000241.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000242.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000243.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000244.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000245.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000246.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000247.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000248.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000249.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000250.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000251.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000252.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000253.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000254.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000255.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000256.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000257.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000258.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000259.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000260.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000261.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000262.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000263.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000264.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000265.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000266.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000267.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000268.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000269.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000270.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000271.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000272.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000273.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000274.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000275.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000276.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000277.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000278.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000279.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000280.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000281.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000282.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000283.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000284.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000285.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000286.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000287.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000288.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000289.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000290.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000291.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000292.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000293.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000294.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000295.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000296.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000297.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000298.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000299.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000300.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000301.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000302.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000303.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000304.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000305.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000306.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000307.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000308.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000309.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000310.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000311.1								
+11	Xanthomonas axonopodis	Xanthomonas axonopodis pv. cajani strain LMG558	487827	GCA_002019105.1	LOKQ01000312.1								
+12	Pyhtoplasma	Candidatus Phytoplasma	37692	GCA_000026205.1	NC_011047.1								
+12	Pyhtoplasma	Candidatus Phytoplasma	85620	GCA_038505995.1	NZ_CP128414.1								
+12	Pyhtoplasma	Candidatus Phytoplasma	85620	GCA_038505995.1	NZ_CP128415.1								
+14	CEVd	Citrus exocortis viroid	12890	GCA_000849865.1	NC_001464.1								
+14	CEVd	Citrus exocortis viroid	457005	GCA_031122165.1	AM774357.1								
+14	CEVd	Citrus exocortis viroid	457004	GCA_031122155.1	AM774356.1								
+14	CEVd	Citrus exocortis viroid	164653	GCA_031116455.1	AF298177.1								
+14	CEVd	Citrus exocortis viroid	164652	GCA_031116445.1	AF298178.1								
+15	CPsV	Citrus psorosis virus (CPsV)	73561	GCA_000855005.1	NC_006314.1								
+15	CPsV	Citrus psorosis virus (CPsV)	73561	GCA_000855005.1	NC_006315.1								
+15	CPsV	Citrus psorosis virus (CPsV)	73561	GCA_000855005.1	NC_006316.1								
+16	CTLV	Citrus tatter leaf virus (CTLV)	33759	GCA_031106045.1	JQ765412.1								
+17	CTV	Citrus tristeza virus (CTV)	12162	GCA_000862265.1	NC_001661.1								
+18	CVEV	Citrus vein enation virus (CVEV)	1301220	GCA_000910315.1	NC_021564.1								
+19	CYVCV	Citrus yellow vein clearing virus (CYVCV)	1214459	GCA_000955035.1	NC_026592.1								
+20	Xanthomonas_Citri	Xanthomonas citri pv. citri	611301	GCA_000961215.1	NZ_CP008998.1								
+20	Xanthomonas_Citri	Xanthomonas citri pv. citri	611301	GCA_000961215.1	NZ_CP008996.1								
+20	Xanthomonas_Citri	Xanthomonas citri pv. citri	611301	GCA_000961215.1	NZ_CP008997.1								
+22	CiVA	Citrus virus A (CiVA)	2484986	GCA_013087035.1	NC_078103.1								
+22	CiVA	Citrus virus A (CiVA)	2484986	GCA_013087035.1	NC_078104.1								
+23	Xylella	Xylella fastidiosa	2371	GCA_028891345.1	NZ_CP118539.1								
+23	Xylella	Xylella fastidiosa	2371	GCA_028891345.1	NZ_CP118540.1								
+24	CEPV	Citrus endogenous pararetrovirus (CEPV)	1435008	GCA_000916755.1	NC_023153.1								
+25	CBLVd	Citrus bent leaf viroid (CBLVd)	12906	GCA_000855385.1	NC_001651.1								
+27	Xanthomonas euvesicatoria	Xanthomonas euvesicatoria pv. citrumelo F1	981368	GCA_000225915.1	NC_016010.1								
+28	Spiroplasma	Spiroplasma citri	2133	GCA_001886855.1	NZ_CP013197.1								
+28	Spiroplasma	Spiroplasma citri	2133	GCA_001886855.1	NZ_CP013199.1								
+28	Spiroplasma	Spiroplasma citri	2133	GCA_001886855.1	NZ_CP013198.1								
+26	HLB	Candidatus Liberibacter asiaticus (Huanglongbing)	34021	GCA_000590865.3	NZ_CP010804.2								
